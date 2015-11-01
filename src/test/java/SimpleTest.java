@@ -13,6 +13,8 @@ public class SimpleTest {
 
     public void navigateToVkontakte (){
 
+        //heellloooooo
+
         WebDriver driver = new FirefoxDriver();
         driver.manage().window().maximize();
         driver.get("http://vk.com/");

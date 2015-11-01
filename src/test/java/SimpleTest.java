@@ -15,6 +15,8 @@ public class SimpleTest {
 
         //heellloooooo
 
+        /////rewrwrerew
+
         WebDriver driver = new FirefoxDriver();
         driver.manage().window().maximize();
         driver.get("http://vk.com/");
